@@ -1,16 +1,28 @@
-## Hi there 👋
+# こんにちは、冷水です
 
-<!--
-**mami0522-wq/mami0522-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Javaエンジニアを目指して学習しています。
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Java Silver SE 17
+- Maven
+- JUnit 5
+- Git / GitHub
+
+## Education
+
+- Cyber University 卒業
+
+## Projects
+
+### ToDoApp
+
+Javaで作成したTodo管理アプリです。
+
+- Java
+- Maven
+- JUnit 5
+- Git / GitHub
+
+[ToDoApp](https://github.com/mami0522-wq/ToDoApp)
